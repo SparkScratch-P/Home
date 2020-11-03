@@ -13,5 +13,5 @@ Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/).
 
 
 Date of Birth: 12/12/2006
-Location: Kolkata(India)
+: Location: Kolkata(India)
 
