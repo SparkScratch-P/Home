@@ -23,15 +23,9 @@ Date of Birth: 12/12/2006
 
 ## My EPIC Contents...
 
-<iframe src="https://scratch.mit.edu/users/SparkScratch_P/projects/" allowtransparency="true" width="1000" height="550" frameborder="0" scrolling="yes" allowfullscreen></iframe>
-
-## My Followers on Scratch
-
-> My Hearty thanks to all my followers for helping keep my spirit up!
-
-  <iframe src="https://scratch.mit.edu/users/SparkScratch_P/followers/ " width="1000" height="550" allowtransparency="true" frameborder="0" scrolling="yes" allowfullscreen>
-</iframe>
-
+[ ![grassland](https://uploads.scratch.mit.edu/projects/thumbnails/456944662.png) ] (https://sparkscratch-p.github.io/Grassland-Dash-3D/)
+[ ![[htmlifier](https://uploads.scratch.mit.edu/projects/thumbnails/448887779.png) ] (https://sparkscratch-p.github.io/AI-HTMLifier/)
+[ ![tank](https://uploads.scratch.mit.edu/projects/thumbnails/421439712.png) ] (https://sparkscratch-p.github.io/TANK-The-Command-of-Death/)
 
 
 ## My Status on [Scratch](scratch.mit.edu) (Powered by [ScratchStats](https://scratchstats.com/) )
