@@ -1,3 +1,5 @@
+<link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16">
+
 # Welcome to SparkScratch_P,s Web Home
 
 Hi Guys !!! I am  SparkScratch_P (Prodyumna Pal). 
