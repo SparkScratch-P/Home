@@ -8,13 +8,9 @@ Hi Guys !!! I am  SparkScratch_P (Prodyumna Pal).
 Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/).
 
  - Scratcher
-
  - Programming for 6 yrs 
-  
  - Learning IT for 11 yrs
-  
  - Coded in: 15+ languages,20+ IDEs
-  
  - [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
 
