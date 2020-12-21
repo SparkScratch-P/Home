@@ -17,11 +17,9 @@ Date of Birth: 12/12/2006
 
 ## My EPIC Contents...
 
-[ ![grassland](https://uploads.scratch.mit.edu/projects/thumbnails/456944662.png) ](https://sparkscratch-p.github.io/Grassland-Dash-3D/)
-
-[ ![guitar](https://uploads.scratch.mit.edu/projects/thumbnails/460419743.png) ](https://sparkscratch-p.github.io/Guitar-Scale-Horizon//)
-
-[ ![tank](https://uploads.scratch.mit.edu/projects/thumbnails/421439712.png) ](https://sparkscratch-p.github.io/TANK-The-Command-of-Death/)
+[ ![grassland](https://cdn2.scratch.mit.edu/get_image/project/456944662_485x402.png) ](https://sparkscratch-p.github.io/Grassland-Dash-3D/)
+[ ![guitar](https://cdn2.scratch.mit.edu/get_image/project/460419743_485x402.png) ](https://sparkscratch-p.github.io/Guitar-Scale-Horizon//)
+[ ![tank](https://cdn2.scratch.mit.edu/get_image/project/421439712_485x402.png) ](https://sparkscratch-p.github.io/TANK-The-Command-of-Death/)
 
 
 ## My Status on [Scratch](scratch.mit.edu) (Powered by [ScratchStats](https://scratchstats.com/) )
