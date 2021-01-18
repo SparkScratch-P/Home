@@ -1,7 +1,11 @@
-# Welcome to SparkScratch_P's Web Home
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+# Welcome to SparkScratch_P's Web Home
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
+
+
+#### Follow me Here:
+[Github](https://github.com/SparkScratch-P) [Scratch](https://scratch.mit.edu/users/SparkScratch_P/) [Scratch-Wiki](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
 Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
 * Scratcher 
@@ -9,6 +13,7 @@ Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](http
 * Learning IT for 11 yrs 
 * Coded in: 15+ languages,20+ IDEs 
 * [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P) 
+* 32nd [Scratch-Addons](https://scratchaddons.com/) [Contributor](https://scratchaddons.com/contributors)
 
 Date of Birth: 12/12/2006 
 
