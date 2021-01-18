@@ -9,7 +9,9 @@ Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](http
 * Learning IT for 11 yrs 
 * Coded in: 15+ languages,20+ IDEs 
 * [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P) 
-Date of Birth: 12/12/2006 :
+
+Date of Birth: 12/12/2006 
+
 Location: Kolkata(India) 
 
 ## As a scratcher...
