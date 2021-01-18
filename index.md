@@ -1,5 +1,8 @@
 # Welcome to SparkScratch_P's Web Home
+```html
+
 <link rel="icon" href="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico" type="image/ico" sizes="16x16"> 
+```
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
@@ -12,19 +15,28 @@ Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](http
 Date of Birth: 12/12/2006 :
 Location: Kolkata(India) 
 
+###As a scratcher...
+
+I am a scratcher since June 21'2020 to Dec 15'2020.
+Ranks in india: (scratchstats Dec 15)
+Followers   19
+Viewers     14
+Luvs        17
+Faves       14
+Comments    11
+Hence, 15th most celebrated scratcher in 179 days on scratch.
+I got 110 follwers in a single day, 5th November.
+I was also 1307th most followed globally.
+My most viewed project (unshared) had 39000 viewers in a week and had 3 trending projects!
+
 ## My EPIC Contents... 
 
 ```html
 <div class="contents">
-  <img class="product-image" 
+  <script 
        src="scratch.html"/>
 </div>
 ```
 
 
 [![grassland](https://cdn2.scratch.mit.edu/get_image/project/456944662_160x120.png) ](https://sparkscratch-p.github.io/Grassland-Dash-3D/) [ ![guitar](https://cdn2.scratch.mit.edu/get_image/project/460419743_160x120.png) ](https://sparkscratch-p.github.io/Guitar-Scale-Horizon//) [ ![tank](https://cdn2.scratch.mit.edu/get_image/project/421439712_160x120.png)](https://sparkscratch-p.github.io/TANK-The-Command-of-Death/)
-
-## My Status on [Scratch](scratch.mit.edu) (Powered by [ScratchStats](https://scratchstats.com/))
-
-<iframe src="https://scratchstats.com/SparkScratch_P" allowtransparency="true" width="550" height="500" frameborder="0" scrolling="yes" allowfullscreen></iframe>
-
