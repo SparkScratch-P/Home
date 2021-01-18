@@ -1,5 +1,5 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # Welcome to SparkScratch_P's Web Home
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
