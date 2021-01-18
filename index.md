@@ -40,6 +40,6 @@ My most viewed project (unshared) had 39000 viewers in a week and had 3 trending
 
 ## My EPIC Contents... 
 
-![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")<a id="raw-url" href="https://scratch.mit.edu/users/SparkScratch_P/projects/" class="btn btn-github"><span class="icon"></span>Take me there</a>
+![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch") [Take me There](https://scratch.mit.edu/users/SparkScratch_P/projects/){: .btn} 
 
 [![grassland](https://cdn2.scratch.mit.edu/get_image/project/456944662_160x120.png) ](https://sparkscratch-p.github.io/Grassland-Dash-3D/) [ ![guitar](https://cdn2.scratch.mit.edu/get_image/project/460419743_160x120.png) ](https://sparkscratch-p.github.io/Guitar-Scale-Horizon//) [ ![tank](https://cdn2.scratch.mit.edu/get_image/project/421439712_160x120.png)](https://sparkscratch-p.github.io/TANK-The-Command-of-Death/)
