@@ -5,7 +5,8 @@
 
 
 #### Follow me Here:
-[Github](https://github.com/SparkScratch-P) [Scratch](https://scratch.mit.edu/users/SparkScratch_P/) [Scratch-Wiki](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
+
+[![github](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/github.png) ](https://github.com/SparkScratch-P) [ ![scratch](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch.png) ](https://scratch.mit.edu/users/SparkScratch_P/) [ ![Scratch Wiki](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch%20wiki.png)](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
 Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
 * Scratcher 
